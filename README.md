@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apriakhin
+- 👋 Hi, I’m Anton
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning SwiftUI
 - 📫 Reach me at [telegram](https://t.me/apriakhin)
